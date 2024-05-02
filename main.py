@@ -1,2 +1,2 @@
-print("Namasakara")
+print("Namaste")
 
